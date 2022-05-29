@@ -1,9 +1,7 @@
-## Olá, eu sou o Luan Bartole!
+## Hello, I am Luan Bartole!
 
-- 🔭 Hoje trabalho com SRE
-- 🌱 Estudando Python
-- 😄 Pronomes: ele/dele
-
+- 🔭 I'm currently working with SRE/DevOps
+- 🌱 I'm currently studying Python.
 
 <div align="center">
   <a href="https://github.com/luanbartole">
