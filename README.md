@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A46AFFFF&size=35&center=true&vCenter=true&width=1000&lines=I+am+an+aspiring+developer.;I'm+21+years+old.;I+am+from+Brazil.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [100 Days of Code](https://github.com/luanbartole/100-days-of-code-python)
+- 🔭 I’m currently working on [100 Days of Code](https://github.com/luanbartole/python_100days)
 
 - 🌱 I’m currently learning **Python**
 <!--
