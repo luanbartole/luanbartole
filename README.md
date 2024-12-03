@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luan!</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A46AFFFF&size=35&center=true&vCenter=true&width=1000&lines=I+am+an+aspiring+developer.;I'm+19+years+old.;I+am+from+Brazil.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A46AFFFF&size=35&center=true&vCenter=true&width=1000&lines=I+am+an+aspiring+developer.;I'm+21+years+old.;I+am+from+Brazil.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on [100 Days of Code](https://github.com/luanbartole/100-days-of-code-python)
 
@@ -13,8 +13,6 @@
 - ⚡ Fun fact: **I am a Robotics Enthusiast.**
 
 - 🎵 Right now I am listening to: 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g4xeavq9lr683d7ar6qgd00bu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
